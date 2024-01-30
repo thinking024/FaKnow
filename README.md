@@ -1,3 +1,6 @@
+# Attention
+**This repo has been moved to [NPURG/FaKnow](https://github.com/NPURG/FaKnow), please refer to the new repo for the latest version**
+
 # FaKnow
 
 **FaKnow** (**Fa**ke **Know**), a unified *Fake News Detection* algorithms library based on PyTorch, is designed for
